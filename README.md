@@ -92,8 +92,15 @@ leydy = {
 ```
 
 ---
+---
 
 <div align="center">
+
+`# con miedo, pero hazlo igual ✦`
+
+<br/>
+
+*turning data into decisions · Ayacucho → el mundo*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&section=footer" width="100%"/>
 
