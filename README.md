@@ -73,8 +73,8 @@ leydy = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Leydy-Jaico&show_icons=true&hide_border=true&title_color=AFA9EC&icon_color=7F77DD&text_color=CECBF6&bg_color=0d0b1a&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leydy-Jaico&layout=compact&hide_border=true&title_color=AFA9EC&text_color=CECBF6&bg_color=0d0b1a"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Leydy-Jaico&theme=tokyonight&hide_border=true&ring=7F77DD&fire=AFA9EC&currStreakLabel=AFA9EC" />
 
 </div>
 
